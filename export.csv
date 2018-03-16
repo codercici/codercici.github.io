@@ -1,0 +1,11 @@
+result,date,sport,league,home team,away team,bet,bet type,bet duration,odds,units,roi,profit
+Loss,Tue Apr 25 2017 18:00:00 GMT-0700 (PDT),Basketball,NBA,San Antonio Spurs,Memphis Grizzlies,Memphis Grizzlies Moneyline,moneyline,game,6,5,-100,-5
+Loss,Tue Apr 25 2017 18:00:00 GMT-0700 (PDT),Basketball,NBA,San Antonio Spurs,Memphis Grizzlies,Memphis Grizzlies +9.0,spread,game,2.13,5,-100,-5
+Loss,Tue Apr 25 2017 18:00:00 GMT-0700 (PDT),Basketball,NBA,San Antonio Spurs,Memphis Grizzlies,Memphis Grizzlies +9.5,spread,game,2.03,5,-100,-5
+Win,Tue Apr 25 2017 17:00:00 GMT-0700 (PDT),Basketball,NBA,Houston Rockets,Oklahoma City Thunder,Oklahoma City Thunder +6.5,spread,game,2.14,5,114,5.7
+Win,Tue Apr 25 2017 17:00:00 GMT-0700 (PDT),Basketball,NBA,Houston Rockets,Oklahoma City Thunder,Oklahoma City Thunder +7.0,spread,game,2.04,5,104,5.2
+Loss,Tue Apr 25 2017 17:00:00 GMT-0700 (PDT),Basketball,NBA,Houston Rockets,Oklahoma City Thunder,Oklahoma City Thunder Moneyline,moneyline,game,3.85,5,-100,-5
+Loss,Thu Apr 20 2017 02:16:20 GMT-0700 (PDT),Tennis,ATP Monte-Carlo - R16,Tomas Berdych,Marin Cilic,Tomas Berdych -1.5 sets,sets,match,3.76,5,-100,-5
+Loss,Thu Apr 20 2017 02:16:20 GMT-0700 (PDT),Tennis,ATP Monte-Carlo - R16,Tomas Berdych,Marin Cilic,Tomas Berdych +1.5,spread,match,1.86,5,-100,-5
+Loss,Thu Apr 20 2017 02:16:20 GMT-0700 (PDT),Tennis,ATP Monte-Carlo - R16,Tomas Berdych,Marin Cilic,Tomas Berdych Moneyline,moneyline,match,2.11,5,-100,-5
+Win,Wed Apr 19 2017 16:05:00 GMT-0700 (PDT),Baseball,MLB,Toronto Blue Jays,Boston Red Sox,Toronto Blue Jays Moneyline,moneyline,game,2.02,5,102,5.1
